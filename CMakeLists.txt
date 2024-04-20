@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
 project(HelloApp)
 add_executable(HelloApp test.c)
-set(CMAKE_C_COMPILER "~/x-tools/arm-cortexa9_neon-linux-musleabihf/bin/arm-cortexa9_neon-linux-musleabihf-gcc")
+set(CMAKE_C_COMPILER "/home/som3a133/x-tools/arm-cortexa9_neon-linux-musleabihf/bin/arm-cortexa9_neon-linux-musleabihf-gcc")
 set(CMAKE_EXE_LINKER_FLAGS "-static")
