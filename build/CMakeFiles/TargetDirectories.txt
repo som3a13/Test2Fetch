@@ -1,0 +1,3 @@
+/home/som3a133/Desktop/GitHub/Test2Fetch/build/CMakeFiles/HelloApp.dir
+/home/som3a133/Desktop/GitHub/Test2Fetch/build/CMakeFiles/edit_cache.dir
+/home/som3a133/Desktop/GitHub/Test2Fetch/build/CMakeFiles/rebuild_cache.dir
